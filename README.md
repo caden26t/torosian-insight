@@ -1,0 +1,7 @@
+Welcome to Torosian Stock Insights!
+
+This app was developed using Claude.ai Python Coding & uses data via Yahoo Finance
+
+  I built this app on the mindset that it is a daunting task to comb through data to form decisions. It can be hard knowing where to look for short-term and long-term stock indicators because the sheer volume of indicators makes it hard for beginners to know what they are looking at. That is why Torosian Stock Insights was designed for beginner investors looking to perform their own market research, removing the data sworm that comes with beginner investing.
+  The main statistic used to find your perfect investment is the Beta value. Users are able to sort by low, medium, and high risk tolerance that correlates with stock volatility. Pairing Beta with investment horizon, sector, market cap, and more opens the door to a massive amount of companies that are availble for investment. One trick I added while testing the app is when using the Compare feature, there is a section that shows which indicator each stock is bullish or bearish on. It's surfacing the indicators where the two stocks are on opposite sides of the signal threshold at this moment in time. So if EMA 50 appears in the disagreement section, it means one stock's price is currently above its 50-day moving average (bullish) and the other's is below it (bearish). That divergence has a lot of meaning.
+  The app allows users to compare stocks, deep dive into one stock, and even screen up to 20 stocks at once based on preferences detailed. 
